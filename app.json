@@ -12,7 +12,7 @@
   "env": {
     "HUBOT_SLACK_TOKEN": {
       "description": "Slack API token",
-      "value": ""
+      "value": "xoxb-5073940044-DmgBXMCB9HqPi1ed3OOXmy4S"
     }
   },
   "logo": "https://slack.global.ssl.fastly.net/26397/plugins/hubot/assets/service_128.png"
